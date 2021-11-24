@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071925278055",
+    "project_id": "oleksandr-holynkov",
+    "storage_bucket": "oleksandr-holynkov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071925278055:android:99c68e49170e97c913abc2",
+        "android_client_info": {
+          "package_name": "dev.jocey.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071925278055-80j4ri69ht795r5mdprh681ireacvr88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8juGsJIf97oXZoU-0aTvdCTdELSIPkE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071925278055-80j4ri69ht795r5mdprh681ireacvr88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
