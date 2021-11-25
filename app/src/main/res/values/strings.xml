@@ -4,4 +4,5 @@
     <string name="email">email</string>
     <string name="password">password</string>
     <string name="sign_in_sign_up">Sign In / Sign Up</string>
+    <string name="token">Token</string>
 </resources>
