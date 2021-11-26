@@ -3,4 +3,7 @@
     <string name="token">Token:</string>
     <string name="countries">Countries</string>
     <string name="app_name">testFireBase</string>
+    <string name="email">Email</string>
+    <string name="pass">Pass</string>
+    <string name="sign_in_sign_up">Sign in/Sign up</string>
 </resources>
